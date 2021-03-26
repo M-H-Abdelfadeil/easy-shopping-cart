@@ -1,0 +1,21 @@
+{
+    "name": "mahmoud-abdelfadeil/easy-shopping-cart",
+    "description": "It is a package to facilitate the shopping card",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M-H-Abdelfadeil",
+            "email": "mahmoudhasan509@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {
+            "EasyShoppingCart\\":"src"
+        }
+    }
+}
